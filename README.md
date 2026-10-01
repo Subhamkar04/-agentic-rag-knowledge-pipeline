@@ -17,7 +17,7 @@ An asynchronous engineering framework built to ingest unstructured enterprise do
 ## 🚀 Execution & Setup
 ```bash
 # Clone the repository
-git clone https://github.com
+git clone http://github.com/Subhamkar04/-agentic-rag-knowledge-pipeline.git
 
 # Install core dependencies
 pip install -r requirements.txt
